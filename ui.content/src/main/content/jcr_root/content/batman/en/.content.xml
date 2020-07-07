@@ -2,7 +2,7 @@
 <jcr:root xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:sling="http://sling.apache.org/jcr/sling/1.0"
     jcr:primaryType="cq:Page">
     <jcr:content
-        cq:lastModified="{Date}2020-07-07T01:58:25.328+02:00"
+        cq:lastModified="{Date}2020-07-07T17:14:20.825+02:00"
         cq:lastModifiedBy="admin"
         jcr:primaryType="nt:unstructured"
         jcr:title="English"
@@ -64,12 +64,13 @@
             <category
                 jcr:created="{Date}2020-07-07T01:58:19.685+02:00"
                 jcr:createdBy="admin"
-                jcr:lastModified="{Date}2020-07-07T01:58:25.324+02:00"
+                jcr:lastModified="{Date}2020-07-07T17:14:20.808+02:00"
                 jcr:lastModifiedBy="admin"
                 jcr:primaryType="nt:unstructured"
                 sling:resourceType="batman/components/content/category"
                 categoryId="11"
-                categoryName="22"/>
+                categoryName="22"
+                categoryUrl="/content/batman/en"/>
             <image_1
                 jcr:created="{Date}2015-01-01T00:00:00.000Z"
                 jcr:primaryType="nt:unstructured"
